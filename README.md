@@ -1,0 +1,3 @@
+# Cthulhu
+
+Utility scaffolding.
